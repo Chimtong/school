@@ -1,4 +1,5 @@
-School Management System
+School Management System:
+
 A simple Java program to manage student and staff information.
 
 Files
